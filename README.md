@@ -11,7 +11,7 @@ This demostrates three different levels of zero downtime deployments
 - A local kubernetes cluster, I'll provide instructions for minikube but kind would also work
 - kubectl
 - kustomize (should be included with kubectl)
-- An http load balancer, I recommend siege
+- An http load tester, I recommend siege
 
 ## Steps
 - Start the minikube cluster with `minikube start`
